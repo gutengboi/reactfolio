@@ -60,14 +60,14 @@ const Contact = () => {
 							possible. Finally, if you prefer to connect on
 							social media, you can find me on{" "}
 							<a
-								href={INFO.socials.instagram}
+								href={INFO.socials.whatsapp}
 								target="_blank"
 								rel="noreferrer"
 							>
-								{INFO.socials.instagram}
+								{INFO.socials.whatsapp}
 							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
+							. I will try my possible best to reply all messages,
+							 so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
 							to hearing from you!
 						</div>
